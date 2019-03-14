@@ -1,4 +1,4 @@
-# ViewQwest Technical Xxam
+# ViewQwest Technical Exam
 Repository for technical exam for web developers
 
 ### Instruction
