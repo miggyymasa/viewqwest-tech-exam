@@ -23,5 +23,7 @@ Create a simple portal the allow end users to key in basic information and allow
     * Zip Code: Required, Must accept only alphanumeric characters
     * Image: Required, Must not be more than 2MB in size and accepts only JPG and PNG file type
 
+### Sample Wireframe Prototype
+<https://pr.to/5S669H/>
 
 
