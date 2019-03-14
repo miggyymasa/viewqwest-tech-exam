@@ -1,5 +1,8 @@
-# technical-exam
-Repository for technical exam
+# ViewQwest Technical Xxam
+Repository for technical exam for web developers
+
+### Instruction
+Clone this repository to your own github account and develop a software as per requirements stated below. Once your done send an invite to collaborate at **ian.labao@viewqwest.com**
 
 ### General Requirement:
 Create a simple portal the allow end users to key in basic information and allow them to review it and make changes before saving the information to your database.
@@ -19,7 +22,6 @@ Create a simple portal the allow end users to key in basic information and allow
     * Country: Required
     * Zip Code: Required, Must accept only alphanumeric characters
     * Image: Required, Must not be more than 2MB in size and accepts only JPG and PNG file type
-
 
 
 
