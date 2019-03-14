@@ -2,7 +2,7 @@
 Repository for technical exam
 
 ### General Requirement:
-Create a simple portal the allow end users to key in basic information and allow the to review it and make changes before saving the information to your database.
+Create a simple portal the allow end users to key in basic information and allow them to review it and make changes before saving the information to your database.
 
 ### Technical Requirements:
 * Use Object Oriented Code Structure with PHP as main programming language, specifically for its backend
