@@ -1,0 +1,26 @@
+.head {
+  margin: 100px 0 40px;
+}
+
+.img-preview  {
+  background-color: #eee;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.img-preview span {
+  line-height: 200px;
+  display: inline-block;
+  font-size: 75px;
+  color: #c1c1c1;
+}
+
+.img-preview img {
+  width: inherit;
+  position: absolute;
+  left: 0;
+  height: 100%;
+}
